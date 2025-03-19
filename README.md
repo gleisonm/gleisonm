@@ -21,7 +21,7 @@
 
 | 🧬 **Transcriptomics** | 🌍 **Metagenomics** | 🔄 **Evolution of Biological Systems** |
 |-----------------------|-------------------|--------------------------------------|
-| Bulk RNA-seq & scRNA-seq | Environmental | Gene evolution by orthology |
+| Bulk RNA-seq & scRNA-seq | Environmental | Genes Evolutionary Trajectory |
 
 <p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="height: 25px;"/>
