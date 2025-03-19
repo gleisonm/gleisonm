@@ -8,21 +8,21 @@
 🥼 Bachelor in Biomedical Science @UFRN
 
 🔬 **Bioinformatician** at [OSTERA](https://ostera.co/)  
-🎓 **Master's Student** at [@dalmolingroup](https://github.com/dalmolingroup) / [@biomegroup](https://github.com/biomegroup)  
+👨‍🎓 **Master's Student** at [@dalmolingroup](https://github.com/dalmolingroup) / [@biomegroup](https://github.com/biomegroup)  
 
 
 
 ### 🎓 Courses I Contributed To    
-📚 [**Systems Biology Course**](https://github.com/dalmolingroup/systemsbiology-course)  
-📚 [**Introduction to R Course**](https://github.com/dalmolingroup/introductionR-course)  
-📚 [**Metagenome Course**](https://github.com/dalmolingroup/metagenome-course)  
-📚 [**GeneBridge Course**](https://github.com/dalmolingroup/genebridge-course)  
+🕸 [**Systems Biology - Course**](https://github.com/dalmolingroup/systemsbiology-course)  
+💻 [**Introduction to R - Course**](https://github.com/dalmolingroup/introductionR-course)  
+🧫 [**Metagenome - Course**](https://github.com/dalmolingroup/metagenome-course)  
+🪸 [**GeneBridge - Course**](https://github.com/dalmolingroup/genebridge-course)  
 
 
 
 ### 🔬 Research Interests  
 
-| 🧬 **Transcriptomics** | 🌍 **Metagenomics** | 🔄 **Evolution of Biological Systems** |
+| 🧬 **Transcriptomics** | 🚽 **Metagenomics** | 🔄 **Evolution of Biological Systems** |
 |-----------------------|-------------------|--------------------------------------|
 | Bulk RNA-seq & scRNA-seq | Environmental | Genes Evolutionary Trajectory |
 
