@@ -13,7 +13,7 @@
 
 
 ### 🎓 Courses I Contributed To    
-🕸 [**Systems Biology - Course**](https://github.com/dalmolingroup/systemsbiology-course)  
+🕸 [**Introduction to Systems Biology - Course**](https://github.com/dalmolingroup/systemsbiology-course)  
 💻 [**Introduction to R - Course**](https://github.com/dalmolingroup/introductionR-course)  
 🧫 [**Metagenome - Course**](https://github.com/dalmolingroup/metagenome-course)  
 🪸 [**GeneBridge - Course**](https://github.com/dalmolingroup/genebridge-course)  
