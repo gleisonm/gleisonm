@@ -10,11 +10,14 @@
 🔬 **Bioinformatician** at [OSTERA](https://ostera.co/)  
 🎓 **Master's Student** at [@dalmolingroup](https://github.com/dalmolingroup) / [@biomegroup](https://github.com/biomegroup)  
 
+
+
 ### 🎓 Courses I Contributed To    
 📚 [**Systems Biology Course**](https://github.com/dalmolingroup/systemsbiology-course)  
 📚 [**Introduction to R Course**](https://github.com/dalmolingroup/introductionR-course)  
 📚 [**Metagenome Course**](https://github.com/dalmolingroup/metagenome-course)  
 📚 [**GeneBridge Course**](https://github.com/dalmolingroup/genebridge-course)  
+
 
 
 ### 🔬 Research Interests  
@@ -23,12 +26,14 @@
 |-----------------------|-------------------|--------------------------------------|
 | Bulk RNA-seq & scRNA-seq | Environmental | Genes Evolutionary Trajectory |
 
+-----
+
 <p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="height: 25px;"/>
-  <img src="https://img.shields.io/badge/Nextflow-000000?style=for-the-badge" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Nextflow-000000?style=for-the-badge&logo=nextflow" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Conda-3DDC84?style=for-the-badge&logo=anaconda&logoColor=white" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Quarto-87CEEB?style=for-the-badge&logo=quarto&logoColor=black" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="height: 25px;"/>
