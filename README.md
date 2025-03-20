@@ -22,9 +22,9 @@
 
 ### 🔬 Research Interests  
 
-| 🧬 **Transcriptomics** | 🚽 **Metagenomics** | 🔄 **Evolution of Biological Systems** |
-|-----------------------|-------------------|--------------------------------------|
-| Bulk RNA-seq & scRNA-seq | Environmental | Genes Evolutionary Trajectory |
+| 🧬 **Transcriptomics**            | 🚽 **Metagenomics**       | 🔄 **Evolution of Biological Systems** |
+|:---------------------------------:|:------------------------:|:--------------------------------------:|
+| **Therapeutic Transcriptomics**    | **Environmental**        | **Evolutionary Trajectory of Genes**    |
 
 -----
 
