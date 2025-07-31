@@ -8,6 +8,7 @@
 
 🔬 **Bioinformatician** at [OSTERA](https://ostera.co/)  
 👨‍🎓 **Master's Student** at [@dalmolingroup](https://github.com/dalmolingroup) / [@biomegroup](https://github.com/biomegroup)  
+🍏 **Nextflow Ambassador**
 
 ### 🌱 Currently Learning  
 🧩 Ribosome Profiling (Ribo-Seq) Analysis  
