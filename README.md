@@ -19,7 +19,7 @@
 💻 [**Introduction to R - Course**](https://github.com/dalmolingroup/introductionR-course)  
 🧫 [**Metagenome - Course**](https://github.com/dalmolingroup/metagenome-course)  
 🪸 [**GeneBridge - Course**](https://github.com/dalmolingroup/genebridge-course)  
-   [**Basics of DGE - RNAseq**](https://github.com/dalmolingroup/basics_rnaseq_minicourse)  
+   [**Basics of DGE (RNAseq) - Minicourse**](https://github.com/dalmolingroup/basics_rnaseq_minicourse)  
 
 ### 🔬 Research Interests  
 
