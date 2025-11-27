@@ -7,7 +7,7 @@
 🥼 Bachelor in **Biomedical Science** @UFRN  
 
 🔬 **Bioinformatician** at [OSTERA](https://ostera.co/)  
-🤖 **Bioinformatician** at [Sepal AI](https://www.sepalai.com)
+🤖 **Bioinformatician** at [Sepal AI](https://www.sepalai.com)  
 👨‍🎓 **Master's Student** at [@dalmolingroup](https://github.com/dalmolingroup) / [@biomegroup](https://github.com/biomegroup)  
 🍏 **Nextflow Ambassador**
 
