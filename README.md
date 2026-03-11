@@ -37,5 +37,4 @@
   <img src="https://img.shields.io/badge/Nextflow-000000?style=for-the-badge&logo=nextflow" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Conda-3DDC84?style=for-the-badge&logo=anaconda&logoColor=white" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Quarto-87CEEB?style=for-the-badge&logo=quarto&logoColor=black" style="height: 25px;"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="height: 25px;"/>
 </p>
